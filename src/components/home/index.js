@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { StoreContext } from "../../context/store/storeContext";
 
 const Home = () => {
-    const { state, actions, dispatch } = useContext(StoreContext);
+    const { state, actions } = useContext(StoreContext);
     const valueRandom = () => {
         return Math.round(Math.random() * (1000 - 1) + 1);
     };
