@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-react-hooks",
+  "name": "react-hooks-context",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,11 +10,11 @@
   },
   "main": "build/index.js",
   "module": "build/index.js",
-  "homepage": "/boilerplate-react-hooks/",
+  "homepage": "/react-hooks-context/",
   "author": {
-    "name": "José Zúñiga",
-    "email": "zuniga.joseignacio@gmail.com",
-    "url": "https://github.com/JoseZunigaDyehs"
+    "name": "Tommy",
+    "email": "buithienai@gmail.com",
+    "url": "https://github.com/buithienai"
   },
   "scripts": {
     "start": "react-scripts start",
